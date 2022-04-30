@@ -1,0 +1,25 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+.content {
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    height: 300px;
+    margin-right: 50px;
+}
+
+.about{
+    display: flex;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+p{
+    font-size: 25px;
+    text-align: justify;
+}
